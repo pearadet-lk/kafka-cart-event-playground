@@ -1,0 +1,12 @@
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\bin\Debug\net10.0\BuildingBlocks.Common.deps.json
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\bin\Debug\net10.0\BuildingBlocks.Common.dll
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\bin\Debug\net10.0\BuildingBlocks.Common.pdb
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\BuildingBlocks.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\BuildingBlocks.Common.AssemblyInfoInputs.cache
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\BuildingBlocks.Common.AssemblyInfo.cs
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\BuildingBlocks.Common.csproj.CoreCompileInputs.cache
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\BuildingBlocks.Common.sourcelink.json
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\BuildingBlocks.Common.dll
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\refint\BuildingBlocks.Common.dll
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\BuildingBlocks.Common.pdb
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Common\obj\Debug\net10.0\ref\BuildingBlocks.Common.dll

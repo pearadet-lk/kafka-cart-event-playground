@@ -1,0 +1,13 @@
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.csproj.AssemblyReference.cache
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.AssemblyInfoInputs.cache
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.AssemblyInfo.cs
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.csproj.CoreCompileInputs.cache
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.sourcelink.json
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\bin\Debug\net10.0\BuildingBlocks.Observability.deps.json
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\bin\Debug\net10.0\BuildingBlocks.Observability.dll
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\bin\Debug\net10.0\BuildingBlocks.Observability.pdb
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.dll
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\refint\BuildingBlocks.Observability.dll
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\BuildingBlocks.Observability.pdb
+D:\MyGitHubProject\kafka-cart-event-layground\src\BuildingBlocks\Observability\obj\Debug\net10.0\ref\BuildingBlocks.Observability.dll
